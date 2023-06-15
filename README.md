@@ -13,11 +13,9 @@ Esse Reposítorio contém Projeto da Disciplina Sistemas Digitais.Com o intuito 
 
 ### Princípais Funções
 
-<p>
-Lista_bits-> retorna uma lista com booleanos se os bits sao vizinhos ou não
-vizinhos-> Ve os que são vizinhos e retorna um array com eles
-Criar_bloco-> criar bloco com os bits em texto
-Agrupar-> pega todos os vizinhos e os agrupam na expressao
-Simplificar-> faz o calculo da expressão final reduzida
-</p>
+<p>Lista_bits-> retorna uma lista com booleanos se os bits sao vizinhos ou não</p>
+<p>vizinhos-> Ve os que são vizinhos e retorna um array com eles</p>
+<p>Criar_bloco-> criar bloco com os bits em texto</p>
+<p>Agrupar-> pega todos os vizinhos e os agrupam na expressao</p>
+<p>Simplificar-> faz o calculo da expressão final reduzida</p>
 
